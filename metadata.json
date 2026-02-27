@@ -1,0 +1,7 @@
+{
+  "name": "LeafScan Pro",
+  "description": "Professional leaf disease detection dashboard with offline inference simulation and Flutter implementation guide.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
